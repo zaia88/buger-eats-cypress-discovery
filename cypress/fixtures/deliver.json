@@ -1,0 +1,50 @@
+{
+    "signup":{
+        "name": "Zaia QA",
+        "cpf": "00000012312",
+        "email": "zaia@email.com",
+        "whatsapp": "44999999999",
+        "address": {
+            "postalcode": "87202132",
+            "street": "Rua Leonardo Augusto Moreira Bergamasco",
+            "number": "777",
+            "details": "Casa",
+            "district": "Jardim Botânico",
+            "city_state": "Cianorte/PR"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    },
+    "cpf_inv": {
+        "name": "Jao QA",
+        "cpf": "00000012aaa",
+        "email": "jao@email.com",
+        "whatsapp": "44999999999",
+        "address": {
+            "postalcode": "87202132",
+            "street": "Rua Leonardo Augusto Moreira Bergamasco",
+            "number": "777",
+            "details": "Casa",
+            "district": "Jardim Botânico",
+            "city_state": "Cianorte/PR"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    },
+    "email_inv":{
+        "name": "Zaia QA",
+        "cpf": "00000012312",
+        "email": "zaia.email.com",
+        "whatsapp": "44999999999",
+        "address": {
+            "postalcode": "87202132",
+            "street": "Rua Leonardo Augusto Moreira Bergamasco",
+            "number": "777",
+            "details": "Casa",
+            "district": "Jardim Botânico",
+            "city_state": "Cianorte/PR"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    }
+}
